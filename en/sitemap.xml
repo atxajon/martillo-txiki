@@ -3,206 +3,206 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/access/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/tags/access/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/art/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/tags/art/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/database/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/database/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/logo/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/portfolio/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/portfolio/project-1/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/portfolio/project-2/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/portfolio/project-3/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/portfolio/project-4/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/portfolio/project-5/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/portfolio/project-6/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sketch/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/sketch/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/categories/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="https://atxajon.github.io/martillo-txiki/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://atxajon.github.io/martillo-txiki/categories/"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/tags/database/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/categories/database/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/tags/design/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/categories/design/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/tags/development/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/categories/development/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/categories/logo/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/blog/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/portfolio/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/portfolio/project-1/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/portfolio/project-2/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/portfolio/project-3/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/portfolio/project-4/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/portfolio/project-5/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/portfolio/project-6/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/tags/sketch/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/categories/sketch/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="https://atxajon.github.io/martillo-txiki/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://atxajon.github.io/martillo-txiki/"
                 />
   </url>
   
   <url>
-    <loc>/blog/blog-1/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/tags/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://atxajon.github.io/martillo-txiki/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atxajon.github.io/martillo-txiki/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://atxajon.github.io/martillo-txiki/blog/blog-1/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/blog-2/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/blog/blog-2/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/blog-3/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/blog/blog-3/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/blog-4/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/blog/blog-4/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/blog-5/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/blog/blog-5/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/blog-6/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/blog/blog-6/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/web/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/tags/web/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/funfacts/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/funfacts/</loc>
   </url>
   
   <url>
-    <loc>/banner/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/banner/</loc>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/about/</loc>
   </url>
   
   <url>
-    <loc>/call-to-action/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/call-to-action/</loc>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/contact/</loc>
   </url>
   
   <url>
-    <loc>/service/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/service/</loc>
   </url>
   
   <url>
-    <loc>/testimonial/</loc>
+    <loc>https://atxajon.github.io/martillo-txiki/testimonial/</loc>
   </url>
   
 </urlset>

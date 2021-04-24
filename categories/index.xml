@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Somrat | Hugo Portfolio Template</title>
-    <link>/categories/</link>
+    <link>https://atxajon.github.io/martillo-txiki/categories/</link>
     <description>Recent content in Categories on Somrat | Hugo Portfolio Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://atxajon.github.io/martillo-txiki/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>database</title>
-      <link>/categories/database/</link>
+      <link>https://atxajon.github.io/martillo-txiki/categories/database/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/categories/database/</guid>
+      <guid>https://atxajon.github.io/martillo-txiki/categories/database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>/categories/design/</link>
+      <link>https://atxajon.github.io/martillo-txiki/categories/design/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/categories/design/</guid>
+      <guid>https://atxajon.github.io/martillo-txiki/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>/categories/development/</link>
+      <link>https://atxajon.github.io/martillo-txiki/categories/development/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/categories/development/</guid>
+      <guid>https://atxajon.github.io/martillo-txiki/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>logo</title>
-      <link>/categories/logo/</link>
+      <link>https://atxajon.github.io/martillo-txiki/categories/logo/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/categories/logo/</guid>
+      <guid>https://atxajon.github.io/martillo-txiki/categories/logo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sketch</title>
-      <link>/categories/sketch/</link>
+      <link>https://atxajon.github.io/martillo-txiki/categories/sketch/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/categories/sketch/</guid>
+      <guid>https://atxajon.github.io/martillo-txiki/categories/sketch/</guid>
       <description></description>
     </item>
     
