@@ -7,6 +7,11 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://atxajon.github.io/martillo-txiki/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eus"
                 href="https://atxajon.github.io/martillo-txiki/categories/"
                 />
     <xhtml:link
@@ -21,6 +26,11 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://atxajon.github.io/martillo-txiki/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eus"
                 href="https://atxajon.github.io/martillo-txiki/"
                 />
     <xhtml:link
@@ -35,6 +45,11 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://atxajon.github.io/martillo-txiki/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eus"
                 href="https://atxajon.github.io/martillo-txiki/tags/"
                 />
     <xhtml:link
