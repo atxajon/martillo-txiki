@@ -1,11 +1,11 @@
 ---
-title : "SAY HELLO!"
+title : "Esan kaixo!"
 bg_image: "images/backgrounds/contact-us-bg.jpg"
 form_action: "#" # works with https://formspree
-name: "Name"
+name: "Izena"
 email: "Email"
-message: "Message"
-submit: "Submit"
+message: "Mezua"
+submit: "Bidali"
 
 
 # custom style

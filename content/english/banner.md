@@ -1,9 +1,9 @@
 ---
-title : "Igor De Castro naiz"
+title : "Ongi etorri Martillo Txiki musika eskolaren webgunera"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
-bg_image : "images/backgrounds/full-nav-bg.jpg"
+first_name : ""
+last_name : "Igor De Castro"
+bg_image : "images/backgrounds/igor-drumming.jpg"
 # animated text loop
 occupations:
 - "Baterijole profesionala"
