@@ -1,5 +1,5 @@
 ---
-title : "Ongi etorri Martillo Txiki musika eskolaren webgunera"
+title : "Martillo Txiki musika eskola"
 # full screen navigation
 first_name : ""
 last_name : "Igor De Castro"
@@ -19,7 +19,7 @@ slider_images:
 # button
 button:
   enable : true
-  label : "Hots egin"
+  label : "Kontaktatu"
   link : "#contact"
 
 
