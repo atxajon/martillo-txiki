@@ -41,7 +41,6 @@
       </div>
     </div>
   </div>
-
   <!-- full nav start -->
   <div class="navigation-icon">
     <input id="burger" type="checkbox" />
@@ -273,6 +272,45 @@
 </section>
 {{ end }}
 <!-- End Services -->
+
+<!-- Start Multimedia -->
+{{ with .GetPage "multimedia" }}
+<style>
+  {
+      {
+      .Params.custom_css | safeCSS
+    }
+  }
+</style>
+<section class="multimedia {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="multimedia">
+  <div class="container">
+    <div class="services-heading">
+      <div class="bar"></div>
+      <h1>{{ .Title | markdownify }}</h1>
+    </div>
+    <div class="row">
+      <div class="col-sm-3">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dZ46lCCCXHM" title="YouTube video player"
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+      </div>
+      <div class="col-sm-3">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dZ46lCCCXHM" title="YouTube video player"
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+      </div>
+      <div class="col-sm-3">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dZ46lCCCXHM" title="YouTube video player"
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+      </div>
+      
+    </div>
+  </div>
+</div>
+</section>
+{{ end }}
+<!-- End Multimedia -->
 
 <!-- call to action -->
 {{ with .GetPage "call-to-action" }}

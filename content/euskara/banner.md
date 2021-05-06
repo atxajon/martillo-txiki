@@ -1,5 +1,5 @@
 ---
-title : "Martillo Txiki musika eskola"
+title : "Martillo Txiki perkusio eskola"
 # full screen navigation
 first_name : ""
 last_name : "Igor De Castro"
