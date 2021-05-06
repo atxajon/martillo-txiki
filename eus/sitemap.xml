@@ -467,6 +467,20 @@
   </url>
   
   <url>
+    <loc>https://atxajon.github.io/martillo-txiki/call-to-action/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atxajon.github.io/martillo-txiki/en/call-to-action/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eus"
+                href="https://atxajon.github.io/martillo-txiki/call-to-action/"
+                />
+  </url>
+  
+  <url>
     <loc>https://atxajon.github.io/martillo-txiki/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -509,17 +523,7 @@
   </url>
   
   <url>
-    <loc>https://atxajon.github.io/martillo-txiki/call-to-action/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://atxajon.github.io/martillo-txiki/en/call-to-action/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="eus"
-                href="https://atxajon.github.io/martillo-txiki/call-to-action/"
-                />
+    <loc>https://atxajon.github.io/martillo-txiki/multimedia/</loc>
   </url>
   
   <url>
