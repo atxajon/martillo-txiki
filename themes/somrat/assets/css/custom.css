@@ -2,3 +2,7 @@
 .header .slider::after, .header::after {
     background: rgba(50,50,50,.2);
 }
+
+.logo {
+    top: 12px;
+}
