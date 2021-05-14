@@ -6,9 +6,9 @@ last_name : "Igor De Castro"
 bg_image : "images/backgrounds/igor-drumming.jpg"
 # animated text loop
 occupations:
-- "Baterijole profesionala"
-- "Hezitzailea"
-- "Gogotsua"
+- "Bateria jotzeko gogorik izan al duzu inoiz?"
+- "Leku egokira iritsi zara!"
+- "Ongi etorri Martillo Txiki perkusio eskolara"
 
 # slider background image loop
 slider_images:
