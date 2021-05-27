@@ -135,3 +135,9 @@ name = "Portfolioa"
 pre = "#"
 url = "portfolio"
 weight = 5
+
+[[Languages.eus.menu.main]]
+name = "Testigantzak"
+pre = "#"
+url = "testimonial"
+weight = 6

@@ -1,54 +1,54 @@
 ---
-title : "KNOW MORE <br> ABOUT ME"
-image : "images/backgrounds/portrait.jpg"
+title : "ESKOLARI BURUZ"
+image : "images/backgrounds/martillo-txiki-fachada.jpg"
 # button
 button:
   enable : true
-  label : "DOWNLOAD MY CV"
+  label : "IRAKASLEARI BURUZ"
   link : "#"
 
 ########################### Experience ##############################
 experience:
   enable : true
-  title : "EXPERIENCE"
+  title : "ESPERIENTZIA"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
+    - name : "Martillo Txiki eskolako irakaslea"
       company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+      duration : "2016-gaur egun"
+      content : "Ehundaka ikasle ezberdinekin lan egin dugu."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
+    - name : "Bateria jolea"
+      company : "Hainbat taldetako bateria jolea"
+      duration : "2000-gaur egun"
       content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "Kontserbatorioko perkusio karrera"
+      company : "Euskal kontserbatorioa"
+      duration : "2013-2019"
+      content : "Instrumentu desberdinen..."
 
 ############################### Skill #################################
 skill:
   enable : true
-  title : "SKILL"
+  title : "IKASLEEN INTERESAK"
   skill_list:
     # skill item loop
-    - name : "Web Development"
+    - name : "Bateria akustikoa"
       percentage : "98%"
       
     # skill item loop
-    - name : "Graphic Design"
+    - name : "Perkusioa"
       percentage : "85%"
       
     # skill item loop
-    - name : "Database Management"
+    - name : "Marimbak"
       percentage : "90%"
       
     # skill item loop
-    - name : "Wordpress"
+    - name : "Batukada"
       percentage : "70%"
 
 
@@ -58,4 +58,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+Martillo Txiki ez dakit zenbagarren urtean sortutako proiektua da. Denborarekin eta zuon konfidantzarekin eskola islatu da aurten. Dagoeneko ez dakit zenbat ikasle baino gehiago gara, elkarrekin musika mundua gozatuz, haur zein helduentzako eskola da hau. Komunitate eskola. Yo ke se. Eskola sortzea izan dugu helburu. Aktibitateak egiten diguu komunitatean, jolasa eta partehartzea dugu helburu. Gure helburua klase dibertigarrien bitartez instrumentu desberdinen zaletasuna sortzea da.

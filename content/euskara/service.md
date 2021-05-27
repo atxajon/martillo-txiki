@@ -1,16 +1,16 @@
 ---
-title : "SERVICES"
+title : "ZERBITZUAK"
 service_list:
 # service item loop
-- name : "Web Development"
+- name : "Klase presentizalak"
   image : "images/icons/web-development.png"
   
 # service item loop
-- name : "Graphic Design"
+- name : "Klaseak online"
   image : "images/icons/graphic-design.png"
   
 # service item loop
-- name : "Database Management"
+- name : "Batukadak"
   image : "images/icons/dbms.png"
   
 # service item loop
