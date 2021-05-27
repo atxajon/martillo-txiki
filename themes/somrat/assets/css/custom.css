@@ -34,3 +34,9 @@
 .bar-before:before {
 	background: #fbcc04;
 }
+
+@media (max-width: 469px) and (min-height: 536px) {
+	.last-name {
+			font-size: 50px;
+	}
+}
