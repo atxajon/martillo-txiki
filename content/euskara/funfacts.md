@@ -9,12 +9,12 @@ funfacts:
 
 # funfacts item loop
 - name : "Kontzertuak"
-  image : "images/icons/works.png"
+  image : "images/icons/kontzertuak.png"
   count : "100"
   
 # funfacts item loop
 - name : "BATUKADAK"
-  image : "images/icons/project.png"
+  image : "images/icons/batukadak.png"
   count : "50"
   
 # funfacts item loop

@@ -11,7 +11,7 @@ service_list:
   
 # service item loop
 - name : "Batukadak"
-  image : "images/icons/dbms.png"
+  image : "images/icons/batukadak.png"
   
 # service item loop
 - name : "Software Development"
