@@ -14,15 +14,15 @@ experience:
   experience_list:
     # experience item loop
     - name : "Martillo Txiki eskolako irakaslea"
-      company : "Fiverr.com"
+      # company : "Fiverr.com"
       duration : "2016-gaur egun"
       content : "Ehundaka ikasle ezberdinekin lan egin dugu."
       
     # experience item loop
     - name : "Bateria jolea"
-      company : "Hainbat taldetako bateria jolea"
-      duration : "2000-gaur egun"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+      company : "Hainbat taldetako bateria jolea,"
+      duration : "2000 - gaur egun"
+      content : "Bateria esperientzia hemen jartzeko."
       
     # experience item loop
     - name : "Kontserbatorioko perkusio karrera"
