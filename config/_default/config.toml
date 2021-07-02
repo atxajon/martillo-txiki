@@ -130,11 +130,11 @@ pre = "#"
 url = "multimedia"
 weight = 4
 
-[[Languages.eus.menu.main]]
-name = "Portfolioa"
-pre = "#"
-url = "portfolio"
-weight = 5
+##[[Languages.eus.menu.main]]
+##name = "Portfolioa"
+##pre = "#"
+##url = "portfolio"
+##weight = 5
 
 [[Languages.eus.menu.main]]
 name = "Testigantzak"

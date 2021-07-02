@@ -14,16 +14,16 @@ service_list:
   image : "images/icons/batukadak.png"
   
 # service item loop
-- name : "Software Development"
-  image : "images/icons/software-development.png"
+# - name : "Software Development"
+#   image : "images/icons/software-development.png"
   
-# service item loop
-- name : "Digital Marketing"
-  image : "images/icons/marketing.png"
+# # service item loop
+# - name : "Digital Marketing"
+#   image : "images/icons/marketing.png"
   
-# service item loop
-- name : "Mobile App Development"
-  image : "images/icons/mobile-app.png"
+# # service item loop
+# - name : "Mobile App Development"
+#   image : "images/icons/mobile-app.png"
 
 
 
