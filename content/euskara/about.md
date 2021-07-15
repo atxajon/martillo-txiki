@@ -72,7 +72,7 @@ custom_css: ""
 
 Martillo-Txiki, 2011. urtean martxan hasi zen proiektua da. Urte luze guzti hauetan, ikasle eta familien konfidantza jaso dut, eta horri esker, aurten, 10 urte ondoren, Perkusio Eskola bihurtu da. Elkarrekin musika ikasi eta musikaz gozatzen dugun ikasle mordoak osatzen dute, gaur egun, Martillo-Txiki Perkusio Eskola.
 
-Haur, zein helduentzat zuzendua dago Eskola, non denek zer ikasi eta zer erakusti dugun, elkar partekatzea bait da helburu nagusiena. Inoiz ez da berandu, atsegin eta jakin mina sortzen dizun instrumentua jotzen ikasteko eta honekin disfrutatzeko.
+Haur, zein helduentzat zuzendua dago Eskola, non denek zer ikasi eta zer erakusteko dugun, elkar partekatzea bait da helburu nagusiena. Inoiz ez da berandu, atsegin eta jakin mina sortzen dizun instrumentua jotzen ikasteko eta honekin disfrutatzeko.
 
 Disfrutatzea bada ere jomuga nagusiena, beste hainbat helburu ere lantzen dira ikasketa prozesuan. Hala nola metodologikoak (musika irakurri eta idaztea, musika sortu eta interpretatu, erritmoak menderatzea, gorputzaren independentzia lortzea, teknika...), perkusio instrumentu ezberdinak ezagutu, bateria delarik Eskolako izar nagusia, edota musika estilo ezberdinak ezagutu eta menderatzea.
 
