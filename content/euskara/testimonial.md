@@ -17,7 +17,7 @@ testimonial_slider:
 - name : "Jon Atxa"
   image : "images/clients/jon2.jpg"
   # designation : "CEO, RANDOM COMPANY"
-  content : "Igor bateria jotzaile izugarria eta irakasle bokazional bikaina da. Arreta handia jartzen du eta bere pazientzia maila ez du parekorik. Igorrengana joan nintzen bateria jotzaile autodidakta gisa, aspaldi aurrera egiteari uzten ez zidaten ohitura txarrez eta teknika okerrez josita. Dagoeneko bidea erakusten ari zait eta ezin dut itxaron hau nora doan ikusteko."
+  content : "Igor baterijole izugarria eta irakasle bokazional bikaina da. Arreta handia jartzen du eta bere pazientzia maila ez du parekorik. Igorrengana joan nintzen baterijole autodidakta gisa, aspaldi aurrera egiteari uzten ez zidaten ohitura txarrez eta teknika okerrez josita."
 
 # custom style
 custom_class: "" 

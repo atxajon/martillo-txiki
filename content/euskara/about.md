@@ -31,16 +31,26 @@ nire bizitzaren hausnarketa sakon baten ondorioz eginiko apostu ausarta bezala o
 Zale Musika Eskolan irakasle izanik, eta nire altxor kuttuna den MARTILLO- TXIKI MUSIKA ESKOLA (Lekunberri) sortu eta garatuaz."
       
     # experience item loop
-    # - name : "Bateria jolea"
-    #   company : "Hainbat taldetako bateria jolea,"
-    #   duration : "2000 - gaur egun"
-    #   content : "Bateria esperientzia hemen jartzeko."
+    - name : "Kontserbatorioko perkusio karrera"
+      company : "Errenteriako kontserbatorioa"
+      duration : "2013tik-2019ra"
+      content : "Konserbatorian instrumentu asko ikasi ditut perkusio karreran. Orkestetan jotzen diren instrumentuak menderatzea erakusten dizute, baita armonia, pianoa 4 urtez (instrumentu sekundario bezala), errepertorioa pianistakin, kontzertuak etab.... Ikasi ditudan instrumentuen artean pixu haundienak dituztenak: MARIMBA, SILOFONOA,
+VIBRAFONOA, TIMBALAK, KAJA, MULTIPERKUSIOA, PERKUSIO TXIKIA, KONGAK.......
+Oso berezia da Perkusionita klasikoaren ikasketak, pilo instrumentu menderatu behar dituzu eta konserbatorio duena da.....teknikoki oso gogorra dela, bainon rekurtso pilo ikasten dituzula."
       
     # # experience item loop
-    # - name : "Kontserbatorioko perkusio karrera"
-    #   company : "Euskal kontserbatorioa"
-    #   duration : "2013-2019"
-    #   content : "Instrumentu desberdinen..."
+    - name : "Baterijola"
+      # company : "Euskal kontserbatorioa"
+      # duration : "2013-2019"
+      content : "ZATA (1996-1999,Lekunberri).: Lagunen arteko lehendabiziko taldea, oso garrantzitsua, beste taldehen
+artean Berri Txarrakeko teloneroak izan ginen Lekunberriko “frontoian”. Lehen pausoak edo lehenengo taldea beti ematen dizu asko, daukazun inkonszienzia, sortzeko gogoak eta freskotasuna oso potentea da.
+KORUMBÀ (2001-2016, ORERETA): korumba, 2001-ean, Andoainen “imagen y Sonido” ikasten nengoenean, sortu genuen taldea da....(Oreretan-Errenderin). EMTE(Errenderi musika taldeen elkartean) ensaiatzen genuen eta baterijole bezala esperientzia eta heldutasuna eman diten taldea da...maketa eta hiru
+disko estudioan grabatuak, baita ere 3 bidoklip eta Talde ezberdinen cd errekopilaziotan parte hartu. Kontzertu pilo eman ditugu eta gira bat Varsobia eta Bielorrusian. Baita Estatu Españoletik ainbat gira
+egin ditugu eta talde mordo batekin jo : Vita Imana, Hora Zulu, Cuernos de Chivo, Europe, SA, Berri Txarrak, Kuraia, Udo, Ktulu, Khamul, Dulcamara, Leize, Piperrak, Ekon eta beste talde mordo
+batekin......
+ZWEKERE (2016-2018): Batukada musikatua egindako talde polit batean 2 urtez egon ginen boloak egiten. 5 perkusionista, bajo, gitarra, saxofoia eta ahotsak. Oskar Estanga geneukala lider bezala, bertsioak, bertsioak, perkusioa eta melodiak nahasten zuen taldea oso dibertigarria eta dantzagarria zen
+eszenatoki gainean. Sarrigunen-eko eskola batentzako ere egin genuen bideoklip bat, beraien proiektu euskazale batentzako.
+Gaur egun klaseak prestatzen eta formatzen nago zentratua, bainon proiektu potente batean ere sartuta, laister eszenatokietan elkar ikusiko dugu."
 
 ############################### Skill #################################
 skill:

@@ -4,7 +4,7 @@ bg_image : "images/backgrounds/_MG_8976.jpg"
 button:
   enable : true
   label : "KONTAKTUAN JARRI!"
-  link : "#contact"
+  link : "/#contact"
 
 
 # custom style
