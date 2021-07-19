@@ -267,7 +267,7 @@
 		loop: true,
 		dots: true,
 		autoplay: true,
-		autoplayTimeout: 3000
+		autoplayTimeout: 13000
 	});
 	/*--------------------------------
 			End Testimonials

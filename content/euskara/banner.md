@@ -20,7 +20,7 @@ slider_images:
 button:
   enable : true
   label : "Kontaktatu"
-  link : "/#contact"
+  link : "../#contact"
 
 
 # custom style

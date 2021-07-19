@@ -11,7 +11,7 @@ testimonial_slider:
 - name : "Manik Osinaga Zabaleta"
   image : "images/clients/manik.jpeg"
   # designation : "CEO, RANDOM COMPANY"
-  content : "Urtero ikasle bakoitzak abesti bat aukeratzen dugu eta Igorrek gure mailan eta gure erritmora erakusten dugu modu gogorrean, dibertigarrian eta batzuetan astunean, baina Igorrek eramangarriago egiten digula uste dut."
+  content : "Urtero ikasle bakoitzak abesti bat aukeratzen dugu eta Igorrek gure mailan eta gure erritmora erakusten digu modu gogorrean, dibertigarrian eta batzuetan astunean, baina Igorrek eramangarriago egiten digula uste dut."
             
 # slider item loop
 - name : "Jon Atxa"
