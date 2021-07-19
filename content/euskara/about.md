@@ -3,7 +3,7 @@ title : "ESKOLARI BURUZ"
 image : "images/backgrounds/martillo-txiki-fachada.jpg"
 # button
 button:
-  enable : true
+  enable : false
   label : "IRAKASLEARI BURUZ"
   link : "#"
 
