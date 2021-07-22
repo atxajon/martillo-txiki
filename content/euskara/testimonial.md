@@ -19,6 +19,12 @@ testimonial_slider:
   # designation : "CEO, RANDOM COMPANY"
   content : "Igor baterijole izugarria eta irakasle bokazional bikaina da. Arreta handia jartzen du eta bere pazientzia maila ez du parekorik. Igorrengana joan nintzen baterijole autodidakta gisa, aspaldi aurrera egiteari uzten ez zidaten ohitura txarrez eta teknika okerrez josita."
 
+  # slider item loop
+- name : "Saioa Ariz Güemes"
+  image : "images/clients/saioa.jpeg"
+  # designation : "CEO, RANDOM COMPANY"
+  content : "Igorrekin asko ikasi dut, ongi irakasten du, pazientzia asko dauka eta interesa jartzen du. Herri askotako jendea gaude eta lagunak egiten ditugu kontzertu edo batukaden bidez, oso dibertigarria da."
+
 # custom style
 custom_class: "" 
 custom_attributes: "" 

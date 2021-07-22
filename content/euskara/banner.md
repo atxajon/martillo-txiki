@@ -8,7 +8,7 @@ bg_image : "images/backgrounds/igor-drumming.jpg"
 occupations:
 - "Bateria jotzeko gogorik izan al duzu inoiz?"
 - "Leku egokira iritsi zara!"
-- "Ongi etorri Martillo Txiki perkusio eskolara"
+- "2021-2022 ikasturterako apuntatzeko data irekita"
 
 # slider background image loop
 slider_images:
