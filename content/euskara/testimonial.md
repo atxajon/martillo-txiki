@@ -24,6 +24,10 @@ testimonial_slider:
   image : "images/clients/saioa.jpeg"
   # designation : "CEO, RANDOM COMPANY"
   content : "Igorrekin asko ikasi dut, ongi irakasten du, pazientzia asko dauka eta interesa jartzen du. Herri askotako jendea gaude eta lagunak egiten ditugu kontzertu edo batukaden bidez, oso dibertigarria da."
+  
+- name : "Manu Agirreurreta"
+  image : "images/clients/manu.jpeg"
+  content : "Martillo Txikiko ikaslea naiz orain dela 6 urte. Astero joaten naiz Lekunberrira nire herritik bateriaz gozatzera eta beste batzutan aspertzera baino beti teknika eta esperientzia hobetuz. Etxean bezala sentitzen naiz Igorrekin eta ikasle talde guztiarekin uneoro. Lan bikaina egin du urte guztietan bai nirekin eta bai taldearekin... kurtso bukaerako kontzertuan, ekintza espezialetan...etab. Martillo Txikik bai merezi du!"
 
 # custom style
 custom_class: "" 

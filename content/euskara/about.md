@@ -39,7 +39,7 @@ VIBRAFONOA, TIMBALAK, KAJA, MULTIPERKUSIOA, PERKUSIO TXIKIA, KONGAK.......
 Oso berezia da Perkusionita klasikoaren ikasketak, pilo instrumentu menderatu behar dituzu eta konserbatorio duena da.....teknikoki oso gogorra dela, bainon rekurtso pilo ikasten dituzula."
       
     # # experience item loop
-    - name : "Baterijola"
+    - name : "Baterijolea"
       # company : "Euskal kontserbatorioa"
       # duration : "2013-2019"
       content : "ZATA (1996-1999,Lekunberri).: Lagunen arteko lehendabiziko taldea, oso garrantzitsua, beste taldehen
