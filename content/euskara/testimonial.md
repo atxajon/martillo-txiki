@@ -29,6 +29,10 @@ testimonial_slider:
   image : "images/clients/manu.jpeg"
   content : "Martillo Txikiko ikaslea naiz orain dela 6 urte. Astero joaten naiz Lekunberrira nire herritik bateriaz gozatzera eta beste batzutan aspertzera baino beti teknika eta esperientzia hobetuz. Etxean bezala sentitzen naiz Igorrekin eta ikasle talde guztiarekin uneoro. Lan bikaina egin du urte guztietan bai nirekin eta bai taldearekin... kurtso bukaerako kontzertuan, ekintza espezialetan...etab. Martillo Txikik bai merezi du!"
 
+- name : "Martín Etxepare Gonzalez"
+  image : "images/clients/martin.jpeg"
+  content : "Llevo dos años en martillo txiki, mi experiencia con Igor está siendo increible. Siempre saca lo mejor de mi, como persona, como amigo y sobre todo como musico y eso hace que tenga una gran motivacion! Eskerrik asko Igor y seguimos caminando juntos."
+  
 # custom style
 custom_class: "" 
 custom_attributes: "" 
